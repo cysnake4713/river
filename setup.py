@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1a",
     author="cysnake4713",
     author_email="cysnake4713@gmail.com",
-    description="A small example package",
+    description="A framework to synchronize between different data source",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/cysnake4713/river-engine",
